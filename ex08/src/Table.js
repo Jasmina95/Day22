@@ -22,7 +22,7 @@ const TableBody = (props) => {
       </tr>
     );
   });
-  return <tbody>{rows}</tbody>
+  return <tbody>{rows}</tbody>;
 };
 
 class Table extends Component {
